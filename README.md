@@ -33,6 +33,7 @@ template_django
     |
     ⨽ js
         ⨽ sctipt.js
+|
 ⊢ templates
     ⨽ index.html
 |
